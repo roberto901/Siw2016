@@ -15,6 +15,7 @@ public class Esame {
 	private Date dataPrenotazione;
 	private Date dataEsame;
 	private Medico medico;
+	private Crostata crostata;
 	
 	
 	
